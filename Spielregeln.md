@@ -2,11 +2,9 @@
 title: "Bringen und Nehmen"
 ---
 
-Damit der Kostnixladen weder zur Sperrmüllhalde verkommt noch sofort völlig leergeräumt wird, sind ein paar Spielregeln notwendig:
-
 Was kann gebracht werden?
 
-Nur Intaktes, was man auch seinen Freunden schencken würde. Die Dinge müssen sauber und funktionsfähig sein.
+Nur Intaktes, was man auch seinen Freunden schencken würde. Die Dinge müssen sauber und funktionsfähig sein:
 - Kleidung (ohne Flecken und Löcher, keine Unterwäsche)
 - Kindersachen (Gewand, Spielzeug, Kinderbücher, Zubehör,...)
 - Geschirr
