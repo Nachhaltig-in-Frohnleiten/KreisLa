@@ -1,3 +1,7 @@
+---
+title: "Öffnungszeiten"
+---
+
 Der Laden hat folgende Öffnungszeiten:
 Dienstags von 16 bis 19 Uhr
 Freitags von 9 bis 12 Uhr und von 15 bis 18 Uhr
