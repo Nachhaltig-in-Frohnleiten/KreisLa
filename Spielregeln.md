@@ -12,18 +12,18 @@ Bei gewissen Dingen behalten wir es uns vor nur eine gewisse Stückzahl pro Pers
 
 Was kann gebracht werden?
 
-Kleidung (ohne Flecken und Löcher, keine Unterwäsche)
-Kindersachen (Gewand, Spielzeug, Kinderbücher, Zubehör,...)
-Geschirr
-Küchenutensilien
-Heimtextilien (Bettwäsche, Vorhänge,…)
-Werkzeuge
-Elektrogeräte (nur funktionierendes)
-Sportartikel
-Schuhe, Taschen, Tücher, Schmuck
-Kosmetikartikel
-Spiele (Brett-, Kartenspiele)
-Dekoartikel (Bilder, saisonales Dekomaterial,...)
+- Kleidung (ohne Flecken und Löcher, keine Unterwäsche)
+- Kindersachen (Gewand, Spielzeug, Kinderbücher, Zubehör,...)
+- Geschirr
+- Küchenutensilien
+- Heimtextilien (Bettwäsche, Vorhänge,…)
+- Werkzeuge
+- Elektrogeräte (nur funktionierendes)
+- Sportartikel
+- Schuhe, Taschen, Tücher, Schmuck
+- Kosmetikartikel
+- Spiele (Brett-, Kartenspiele)
+- Dekoartikel (Bilder, saisonales Dekomaterial,...)
 
 Größere Artikel können an das schwarze Brett aufgehängt werden.
 
