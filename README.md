@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # KreisLa
 
 Der Verein "Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten"
