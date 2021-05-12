@@ -2,14 +2,16 @@
 title: "Bringen und Nehmen"
 ---
 
-Wie viel kann gebracht werden
+Wie viel kann gebracht werden?
+
 Nur Intaktes, was man auch seinen Freunden schencken würde. Die Dinge müssen sauber und funktionsfähig sein.
 Von der Menge: Wir haben derzeit (noch) keine Stückbegrenzung beim Mitnehmen und Bringen.
 Als Richtwert gilt zu sagen, dass man Dinge bringen kann die man selbst ohne fremde Hilfe tragen kannst (zB eine Bananenschachtel voll). Wir bitten hier zu bedenken, dass wir einerseits nur begrenzten Platz haben (also bitte nicht säckeweise Sachen bringen - gerade bei Kleidung) und andererseits genug für alle da sein soll (der Laden nicht halb leer geräumt werden soll).
 Bei gewissen Dingen behalten wir es uns vor nur eine gewisse Stückzahl pro Person herzugeben.
 
 
-Was kann gebracht werden
+Was kann gebracht werden?
+
 Kleidung (ohne Flecken und Löcher, keine Unterwäsche)
 Kindersachen (Gewand, Spielzeug, Kinderbücher, Zubehör,...)
 Geschirr
@@ -30,6 +32,7 @@ Keine Cds/DVDs/VHS/Audiokassetten und keine Bücher, außer Kinderbücher und B�
 
 
 „Spielregeln“
+
 Damit der Kostnixladen weder zur Sperrmüllhalde verkommt noch sofort völlig leergeräumt wird, sind ein paar Spielregeln notwendig:
 
 Auch Dinge die gratis sind, haben einen Wert. Nimm nur das, was du wirklich brauchen kannst.
