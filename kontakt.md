@@ -2,7 +2,7 @@
 title: "Kontakt"
 ---
 
-Hier erreichht ihr uns
+Hier erreicht ihr uns
 
 * email: info@nachhaltig-in-frohnleiten.at
 * fb: fb.com/nachhaltiginfrohnleiten
