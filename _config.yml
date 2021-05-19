@@ -20,4 +20,4 @@ minima:
   
   skin: solarized
   
-logo: <img src="assets/Logo1.jpeg" alt="drawing" width="100"/>
+logo: "assets/Logo1.jpeg"
