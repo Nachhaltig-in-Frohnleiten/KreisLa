@@ -7,7 +7,7 @@ Es ist also ein Tauschprinzip dahinter – Geben und Nehmen. Wobei man natürlic
 
 Der KreisLa soll für alle da sein - unabhängig von Einkommen, Alter und Lebensstil – die Umwelt zu schonen geht uns alle etwas an. Kostnixläden werden oft mit “Sozialläden” verwechselt, die zum Ziel haben Menschen in finanziellen Schwierigkeiten Dinge zur Verfügung zu stellen. Tatsächlich ist der Grundgedanke der meisten Kostnixläden aber gut brauchbare Dinge vor dem Müll zu bewahren. Alle sind eingeladen Dinge zu bringen, zu stöbern und ein bisschen Zeit im KreisLa zu verbringen.
 
-Gemeinsam mit der Caritas werden auch gerettete Lebensmittel angeboten. Die Lebensmittelausgabe der Caritas siedelt somit vom Pfarrgarten in den KreisLa. Lebensmittel – die kurz vor oder nach dem Mindesthaltbarkeitsdatum stehen – werden von Supermärkten abgeholt und im Laden verschenkt.
+Gemeinsam mit der Caritas werden auch gerettete Lebensmittel angeboten. Lebensmittel – die kurz vor oder nach dem Mindesthaltbarkeitsdatum stehen – werden von Supermärkten abgeholt und im Laden verschenkt.
 Somit kann auch im Bereich Nahrungsmittel einiges an Ressourcen geschont werden.
 
 Die MitarbeiterInnen die während den Öffnungszeiten den Laden betreuen (Waren entgegennehmen, einsortieren, zusammenräumen, usw.), engagieren sich ehrenamtlich. Wer sich einbringen möchte, gerne per Mail Kontakt aufnehmen.
