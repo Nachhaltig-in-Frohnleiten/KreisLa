@@ -11,7 +11,7 @@ Am 29.5 und am 30.5 werden bereits Waren angenommen, danach ist eine Warenannahm
 
 Derweil wird noch fleißig geplant und umgebaut.
 
-<img src="assets/KreisLaComingSoon.jpeg" alt="drawing" heigth="200"/> <img src="assets/vormLaden.jpg" alt="drawing" heigth="200"/> <img src="assets/DSCF4580.jpg" alt="drawing" heigth="200"/>
+<img src="assets/KreisLaComingSoon.jpeg" alt="drawing" width="248"/> <img src="assets/vormLaden.jpg" alt="drawing" width="300"/> <img src="assets/DSCF4580.jpg" alt="drawing" width="300"/>
 
 <img src="assets/DSCF4920.jpg" alt="drawing" height="200"/> <img src="assets/DSCF4944.jpg" alt="drawing" height="200"/> <img src="assets/IMG_1684.jpg" alt="drawing" height="200"/>
 
