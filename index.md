@@ -1,5 +1,6 @@
 ---
-Title: Verein
+title: Verein
+layout: home
 ---
 
 Wir sind der Verein "Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten".
