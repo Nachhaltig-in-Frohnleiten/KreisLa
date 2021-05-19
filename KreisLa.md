@@ -1,5 +1,8 @@
 ---
 title: "KreisLa"
+layout: category
+permalink: /categories/KreisLa/
+taxonomy: KreisLa
 ---
 Der KreisLa ist ein Kreislauf-Laden.
 Zu Beginn wird vor allem der "Kostnix-Laden-Teil" vom KreisLa umgesetzt werden. Dies bedeutet: Funktionstüchtige Dinge die man zuhause nicht mehr braucht, können in den Laden gebracht werden und man kann Dinge, die im Laden sind (die jemand anderer gebracht hat) mit nach Hause nehmen.
