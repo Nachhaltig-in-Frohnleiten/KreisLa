@@ -30,13 +30,5 @@ footer_links:
     url: https://facebook.com/nachhaltiginfrohnleiten
     icon: fab fa-facebook-square
   - title: Website
-    url: https://www.nachhaltig-in-frohnleiten.at
+    url: https://nachhaltig-in-frohnleiten.at
     icon: fa fa-home
-
-copyright: |
-  &#169; Nachhaltig in Frohnleiten. Powered by Jekyll & So Simple.
-
-
-  KreisLa
-  Hauptplatz 19
-  8130 Frohnleiten
