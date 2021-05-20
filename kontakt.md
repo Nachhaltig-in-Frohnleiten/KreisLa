@@ -9,5 +9,4 @@ Ihr erreicht uns unter:
 * Homepage: nachhaltig-in-frohnleiten.at bzw. kreisla.at
 
 Adresse KreisLa:
-
 Hauptplatz 19, 8130 Frohnleiten
