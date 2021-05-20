@@ -11,14 +11,14 @@ Nur Intaktes, was man auch seinen Freunden schencken würde. Die Dinge müssen s
 - Küchenutensilien
 - Heimtextilien (Bettwäsche, Vorhänge,…)
 - Werkzeuge
-- Elektrogeräte (nur funktionierende)
+- Elektrokleingeräte (nur funktionierende)
 - Sportartikel
 - Schuhe, Taschen, Tücher, Schmuck
 - Kosmetikartikel
 - Spiele (Brett-, Kartenspiele)
 - Dekoartikel (Bilder, saisonales Dekomaterial,...)
 
-Größere Artikel können an das schwarze Brett aufgehängt werden.
+Größere Artikel können mit Bild und/oder einem Text auf unsere Pinnwand aufgehängt werden.
 
 Keine CDs/DVDs/VHS/Audiokassetten und keine Bücher (außer Kinderbücher und Bücher zum Thema Nachhaltigkeit)
 
@@ -30,6 +30,6 @@ Als Richtwert gilt zu sagen, dass man Dinge bringen kann die man selbst ohne fre
 Bei gewissen Dingen behalten wir es uns vor nur eine gewisse Stückzahl pro Person herzugeben.
 
 Auch Dinge die gratis sind, haben einen Wert. Nimm nur das, was du wirklich brauchen kannst. 
-Die Waren sind nicht zum Weiterverkauf gedacht. Die mitgenommen Dinge sollen dem persönlichen Gebrauch dienen und nicht weiterverkauft werden. 
-Abgabe nur an Mitarbeiter des Ladens (nicht einfach vor die Tür stellen). 
+Die mitgenommen Dinge sollen dem persönlichen Gebrauch dienen und nicht weiterverkauft werden. 
+Abgabe nur an MitarbeiterInnen des Ladens (nicht einfach vor die Tür stellen). 
 Sachen aus dem Kostnixladen, die nicht mehr benötigt werden, dürfen jederzeit wieder zurück gebracht werden.
