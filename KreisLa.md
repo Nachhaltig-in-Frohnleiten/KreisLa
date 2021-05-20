@@ -1,7 +1,7 @@
 ---
 title: "KreisLa"
 layout: category
-permalink: /categories/kreisla/
+permalink: /categories/KreisLa/
 taxonomy: KreisLa
 ---
 Der KreisLa ist ein Kreislauf-Laden.
