@@ -10,7 +10,7 @@ Der KreisLa soll für alle da sein - unabhängig von Einkommen, Alter und Lebens
 Gemeinsam mit der Caritas werden auch gerettete Lebensmittel angeboten. Lebensmittel – die kurz vor oder nach dem Mindesthaltbarkeitsdatum stehen – werden von Supermärkten abgeholt und im Laden verschenkt.
 Somit kann auch im Bereich Nahrungsmittel einiges an Ressourcen geschont werden.
 
-Die MitarbeiterInnen die während den Öffnungszeiten den Laden betreuen (Waren entgegennehmen, einsortieren, zusammenräumen, usw.), engagieren sich ehrenamtlich. Wer sich einbringen möchte, gerne per Mail Kontakt aufnehmen.
+Die MitarbeiterInnen die während den Öffnungszeiten den Laden betreuen (Waren entgegennehmen, einsortieren, zusammenräumen, usw.), engagieren sich ehrenamtlich. Wer sich einbringen möchte kann gerne per Mail Kontakt aufnehmen.
 
 Der Verein möchte außerdem mit dem Laden auf das Thema Nachhaltigkeit und Umweltschutz aufmerksam machen. Es wird dort die Möglichkeit geben, Unterstützung zu erhalten um den eigenen Alltag und den Konsum nachhaltiger zu gestalten.
 Dazu werden Workshops, Vorträge, Stammtische und "Doityourself" (DIY) - Abende angeboten.
