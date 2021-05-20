@@ -1,9 +1,5 @@
 ---
-title: "Eröffnung KreisLa am Freitag den 4.6.2021, 9-12 und 15-18 Uhr"
-categories:
-  - KreisLa
-image:
-  path: /assets/aktuelles/kreislaComingSoon.jpg
+title: "Aktuelles"
 ---
 
 Unser Herzensprojekt geht in die nächste Phase!
