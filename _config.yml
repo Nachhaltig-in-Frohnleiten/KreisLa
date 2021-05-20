@@ -21,3 +21,14 @@ minima:
   skin: solarized
   
 logo: "assets/Logo.png"
+
+footer_links:
+  - title: E-Mail
+    url: info@nachhaltig-in-frohnleiten.at
+    icon: fa fa-at
+  - title: Facebook
+    url: https://facebook.com/nachhaltiginfrohnleiten
+    icon: fa fa-facebook-square
+  - title: Website
+    url: https://www.nachhaltig-in-frohnleiten.at
+    icon: fa fa-home
