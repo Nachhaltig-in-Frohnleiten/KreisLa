@@ -24,7 +24,7 @@ logo: "assets/Logo.png"
 
 footer_links:
   - title: E-Mail
-    url: info@nachhaltig-in-frohnleiten.at
+    url: mailto:info@nachhaltig-in-frohnleiten.at
     icon: fa fa-at
   - title: Facebook
     url: https://facebook.com/nachhaltiginfrohnleiten
@@ -32,3 +32,5 @@ footer_links:
   - title: Website
     url: https://www.nachhaltig-in-frohnleiten.at
     icon: fa fa-home
+
+copyright: "KreisLa: </br>Hauptplatz 19</br>8130 Frohnleiten"
