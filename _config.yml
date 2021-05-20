@@ -28,7 +28,7 @@ footer_links:
     icon: fa fa-at
   - title: Facebook
     url: https://facebook.com/nachhaltiginfrohnleiten
-    icon: fa fa-facebook-square
+    icon: fab fa-facebook-square
   - title: Website
     url: https://www.nachhaltig-in-frohnleiten.at
     icon: fa fa-home
