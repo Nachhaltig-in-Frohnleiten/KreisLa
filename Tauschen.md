@@ -4,7 +4,7 @@ title: "Bringen und Nehmen"
 
 **Was kann gebracht werden?**
 
-Nur Intaktes, was man auch seinen Freunden schencken würde. Die Dinge müssen sauber und funktionsfähig sein:
+Nur Intaktes, was man auch seinen Freunden schenken würde. Die Dinge müssen sauber und funktionsfähig sein:
 - Kleidung (ohne Flecken und Löcher)
 - Kindersachen (Gewand, Spielzeug, Kinderbücher, Zubehör,...)
 - Geschirr
