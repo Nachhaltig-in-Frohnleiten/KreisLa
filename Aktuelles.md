@@ -8,11 +8,10 @@ Schaut vorbei und stöbert durch!
 
 <img src="assets/Geschirr.jpeg" alt="drawing" width="248"/>
 <img src="assets/Kleidung.jpeg" alt="drawing" width="248"/>
-<img src="assets/Schuhe.jpeg" alt="drawing" width="248"/>
 <img src="assets/KinderVorne.jpeg" alt="drawing" width="248"/>
 <img src="assets/KinderHinten.jpeg" alt="drawing" width="248"/>
-
-
+<img src="assets/Schmuck.jpeg" alt="drawing" width="248"/>
+<img src="assets/Schuhe.jpeg" alt="drawing" width="248"/>
 
 
 
