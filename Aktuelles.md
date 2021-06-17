@@ -2,7 +2,7 @@
 title: "Aktuelles"
 ---
 
-**17.6.2021:**
+*17.6.2021*
 
 **Unser KreisLa hat eröffnet**
 
@@ -18,7 +18,7 @@ Schaut vorbei und stöbert durch!
 
 
 
-**21.5.2021:**
+*21.5.2021*
 
 Unser Herzensprojekt geht in die nächste Phase!
 
