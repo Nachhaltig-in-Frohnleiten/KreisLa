@@ -8,9 +8,11 @@ title: "Aktuelles"
 
 Der Kreislauf-Laden hat seit Anfang Juni jede Woche 4x geöffnet und wir freuen uns sehr über die zahlreichen Gäste, die bisher schon gekommen sind und in der nächsten Zeit noch kommen werden.
 Es wurde schon vielen Dingen ein zweites Leben geschenkt - angefangen von Geschirr über Kleidung und Kindersachen hin zu Deko und Co.
+
 Schaut vorbei und stöbert durch!
 
-<img src="assets/Geschirr.jpg" alt="drawing" width="248"/> <img src="assets/Kleidung.jpg" alt="drawing" width="248"/> <img src="assets/KinderVorne.jpg" alt="drawing" width="248"/> <img src="assets/KinderHinten.jpg" alt="drawing" width="248"/> <img src="assets/Schmuck.jpg" alt="drawing" width="248"/> <img src="assets/Schuhe.jpg" alt="drawing" width="248"/>
+<img src="assets/Geschirr.jpg" alt="drawing" width="248"/>  <img src="assets/Kleidung.jpg" alt="drawing" width="248"/>  <img src="assets/KinderVorne.jpg" alt="drawing" width="248"/> 
+<img src="assets/KinderHinten.jpg" alt="drawing" width="248"/>  <img src="assets/Schmuck.jpg" alt="drawing" width="248"/>  <img src="assets/Schuhe.jpg" alt="drawing" width="248"/>
 
 
 21.5.2021
