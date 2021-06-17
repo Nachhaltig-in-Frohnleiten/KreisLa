@@ -12,6 +12,7 @@ Es wurde schon vielen Dingen ein zweites Leben geschenkt - angefangen von Geschi
 Schaut vorbei und stöbert durch!
 
 <img src="assets/Geschirr.jpg" alt="drawing" width="248"/>  <img src="assets/Kleidung.jpg" alt="drawing" width="248"/>  <img src="assets/KinderVorne.jpg" alt="drawing" width="248"/> 
+
 <img src="assets/KinderHinten.jpg" alt="drawing" width="248"/>  <img src="assets/Schmuck.jpg" alt="drawing" width="248"/>  <img src="assets/Schuhe.jpg" alt="drawing" width="248"/>
 
 
