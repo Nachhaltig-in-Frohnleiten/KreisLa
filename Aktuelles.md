@@ -16,6 +16,8 @@ Schaut vorbei und stöbert durch!
 <img src="assets/KinderHinten.jpg" alt="drawing" width="248"/>  <img src="assets/Schmuck.jpg" alt="drawing" width="248"/>  <img src="assets/Schuhe.jpg" alt="drawing" width="248"/>
 
 
+
+
 21.5.2021
 
 Unser Herzensprojekt geht in die nächste Phase!
