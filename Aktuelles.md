@@ -6,12 +6,12 @@ Der KreisLa hat eröffnet und wir freuen uns sehr über die zahlreichen Gäste, 
 Es wurde schon vielen Dingen ein zweites Leben geschenkt - angefangen von Geschirr über Kleidung und Kindersachen hin zu Deko und Co.
 Schaut vorbei und stöbert durch!
 
-<img src="assets/Geschirr.jpeg" alt="drawing" width="248"/>
-<img src="assets/Kleidung.jpeg" alt="drawing" width="248"/>
-<img src="assets/KinderVorne.jpeg" alt="drawing" width="248"/>
-<img src="assets/KinderHinten.jpeg" alt="drawing" width="248"/>
-<img src="assets/Schmuck.jpeg" alt="drawing" width="248"/>
-<img src="assets/Schuhe.jpeg" alt="drawing" width="248"/>
+<img src="assets/Geschirr.jpg" alt="drawing" width="248"/>
+<img src="assets/Kleidung.jpg" alt="drawing" width="248"/>
+<img src="assets/KinderVorne.jpg" alt="drawing" width="248"/>
+<img src="assets/KinderHinten.jpg" alt="drawing" width="248"/>
+<img src="assets/Schmuck.jpg" alt="drawing" width="248"/>
+<img src="assets/Schuhe.jpg" alt="drawing" width="248"/>
 
 
 
