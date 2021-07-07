@@ -2,6 +2,16 @@
 title: "Aktuelles"
 ---
 
+*7.7.2021*
+
+**Repair Cafè**
+
+Unser erstes Repair Cafè für elektrische Geräte findet am 17.7.2021 von 9 bis 12 vor unserem KreisLa statt.
+
+<img src="assets/RC.jpg" alt="drawing" width="250"/>
+
+
+
 *17.6.2021*
 
 **Unser KreisLa hat eröffnet**
