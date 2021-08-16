@@ -2,7 +2,12 @@
 title: "Aktuelles"
 ---
 
-*16.8.
+*16.8.2021*
+
+**Unsere nächsten Termine für Aktionen sind fixiert**
+
+<img src="assets/aktuelles/Sommer21.jpg" alt="drawing" width="350"/>
+
 
 
 *7.7.2021*
