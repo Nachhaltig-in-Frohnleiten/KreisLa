@@ -4,7 +4,6 @@ title: "Aktuelles"
 
 *16.8.2021*
 
-
 <img src="assets/aktuelles/Sommer21.jpg" alt="drawing" width="350"/>
 
 
