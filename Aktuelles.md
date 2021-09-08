@@ -15,7 +15,7 @@ Im Rahmen der Mobilitätsowoche finden einige Veranstaltungen in und rund um Fro
 
 **Wir machen Urlaub**
 
-<img src="assets/aktuelles/Urlaub.png" alt="drawing" width="250"/>
+<img src="assets/aktuelles/Urlaub.jpg" alt="drawing" width="250"/>
 
 
 *16.8.2021*
