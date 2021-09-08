@@ -9,6 +9,7 @@ title: "Aktuelles"
 Im Rahmen der Mobilitätsowoche finden einige Veranstaltungen in und rund um Frohnleiten statt - beginnend mit unserem Radtag am 17.9. vor unserem KreisLa. Kommt mit eurem Rad vorbei, lasst es durchchecken, probiert unseren Parcours aus und nehmt somit an unserem Gewinnspiel teil.
 
 <img src="assets/aktuelles/Radtag.png" alt="drawing" width="350"/>
+<img src="assets/aktuelles/plakat_Mobilitaetswoche_final1.pdf" alt="drawing" width="350"/>
 
 
 
