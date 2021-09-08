@@ -11,6 +11,11 @@ Im Rahmen der Mobilitätsowoche finden einige Veranstaltungen in und rund um Fro
 <img src="assets/aktuelles/Radtag.png" alt="drawing" width="350"/>
 <img src="assets/aktuelles/plakat_Mobilitaetswoche_final1.pdf" alt="drawing" width="350"/>
 
+*5.9.2021*
+
+**Wir machen Urlaub**
+
+<img src="assets/aktuelles/Urlaub.png" alt="drawing" width="250"/>
 
 
 *16.8.2021*
