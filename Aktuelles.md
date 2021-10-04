@@ -1,3 +1,7 @@
+---
+title: "Aktuelles"
+---
+
 *4.10.2021*
 
 **Waschen mit Pflanzen**
@@ -19,11 +23,6 @@ Am 1.10. nahmen wir beim Late Night Shopping mit Modenschau teil. Es war für un
 Bei unserem Radtag mitten am Frohnleitner Hauptplatz wurde auf das Thema "Nachhaltige Mobilität" aufmerksam gemacht.
 
 {% include my-gallery.html folder="assets/radtag" %}
-
----
-title: "Aktuelles"
----
-
 *8.9.2021*
 
 **Europäische Mobilitätswoche**
