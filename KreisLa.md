@@ -16,6 +16,6 @@ Die MitarbeiterInnen die während den Öffnungszeiten den Laden betreuen (Waren 
 
 Der Verein möchte außerdem mit dem Laden auf das Thema Nachhaltigkeit und Umweltschutz aufmerksam machen. Es wird dort die Möglichkeit geben, Unterstützung zu erhalten um den eigenen Alltag und den Konsum nachhaltiger zu gestalten.
 Dazu werden Workshops, Vorträge, Stammtische und "Doityourself" (DIY) - Abende angeboten.
-Die Räumlichkeiten sind so geplant, dass für solche Aktionen und Veranstaltungen Platz sein wird. Der Verein möchte bereits im Sommer, soweit möglich, einiges anbieten.
+Die Räumlichkeiten sind so geplant, dass für solche Aktionen und Veranstaltungen Platz sein wird.
 
 {% include my-gallery.html folder="assets/kreislafotos1" %}
