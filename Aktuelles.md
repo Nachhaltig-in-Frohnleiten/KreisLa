@@ -18,11 +18,12 @@ Am 1.10. nahmen wir beim Late Night Shopping mit Modenschau teil. Es war für un
 
 *12.9.2021*
 
-**Fotos Radtag*
+**Fotos Radtag**
 
 Bei unserem Radtag mitten am Frohnleitner Hauptplatz wurde auf das Thema "Nachhaltige Mobilität" aufmerksam gemacht.
 
 {% include my-gallery.html folder="assets/radtag" %}
+
 *8.9.2021*
 
 **Europäische Mobilitätswoche**
