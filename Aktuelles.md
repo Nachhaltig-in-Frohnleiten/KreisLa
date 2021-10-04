@@ -12,7 +12,7 @@ title: "Aktuelles"
 
 **Modenschau**
 
-Am 1.10. nahmen wir beim Late Night Shopping mit Modenschau teil. Es war für uns eine gute Gelegenheit unsere schöne Outfits zu präsentieren.
+Am 1.10. nahmen wir beim Late Night Shopping mit Modenschau teil. Es war für uns eine gute Gelegenheit unsere schönen Outfits zu präsentieren.
 
 {% include my-gallery.html folder="assets/modenschau" %}
 
