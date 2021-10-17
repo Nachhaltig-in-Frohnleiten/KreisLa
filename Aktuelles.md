@@ -6,8 +6,9 @@ title: "Aktuelles"
 
 **Kastanien Häckseln**
 
-Gestern drehte sich vor unserem KreisLa alles um das Thema "Waschen mit Pflanzen". Es wurde viele Informationen ausgetauscht und viele Kastanien wurden zerkleinert. Wer Interesse hat, wie das Waschen mit Kastanien funktioniert, findet hier viele Infos dazu: https://www.umweltberatung.at/naturwaschmittel-aus-rosskastanien
-Bzw natürlich auch gerne bei uns nachfragen (wir haben auch Kostproben).
+Gestern drehte sich vor unserem KreisLa alles um das Thema "Waschen mit Pflanzen". Es wurden viele Informationen ausgetauscht und viele Kastanien zerkleinert. Wer Interesse hat, wie das Waschen mit Kastanien funktioniert, findet hier viele Infos dazu: https://www.umweltberatung.at/naturwaschmittel-aus-rosskastanien
+
+Ihr könnt natürlich auch gerne bei uns nachfragen (wir haben auch Kostproben).
 
 {% include my-gallery.html folder="assets/kastanien" %}
 
