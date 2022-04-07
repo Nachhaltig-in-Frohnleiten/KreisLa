@@ -2,6 +2,18 @@
 title: "Aktuelles"
 ---
 
+*7.4.2022*
+
+**Fashion Revolution Week**
+
+Jedes Jahr findet von 18. bis 24. April die Fashion Revolution Week statt. In dieser Aktionswoche soll auf die Probleme der Fast Fashion Industrie hingewiesen werden. Und diese Probleme sind sehr vielfältig - mit sehr schlechten Auswirkungen auf Mensch und Umwelt: angefangen von den miserablen Arbeitsbedingungen über enormen Wasserbedarf und Wasserverschmutzung hin zu einem sehr hohem Chemikalieneinsatz.
+Warum diese Aktionswoche genau zu diesem Datum stattfindet hat einen sehr tragischen Grund: Am 24. April 2013 stürzte in Bangladesh das "Rana Plaza" Gebäude ein. Ein Gebäude in dem Fast Fashion produziert wurde. Beim Einsturz kamen 1.135 Menschen ums Leben und über 2.400 Menschen wurden verletzt. Es war ein Unglück, das einfach nicht passieren hätte dürfen. Es war ein Tag mit so viel Leid und Trauer. Trauer, die vermeidbar gewesen wäre, wenn die Fast Fashion Industrie nicht so wäre wie sie ist.
+
+Im Rahmen der Fashion Revolution Week wollen auch wir in Frohnleiten auf dieses Thema aufmerksam machen. Wir wollen auf die Probleme der Fast Fashion hinweisen. Und wir wollen auch Lösungen aufzeigen. Denn es gibt genug Wege raus aus dieser Fast Fashion Industrie. 
+Gemeinsam mit Lounge Cherie und Mamanita haben wir drei Veranstaltungen organisiert. Merkt euch die Termine schon mal vor. Näheres zu den einzelnen Veranstaltungen gibt es in den nächsten Tagen.
+
+<img src="assets/Fashion22.jpg" alt="drawing" width="350"/>
+
 
 *1.4.2022*
 
