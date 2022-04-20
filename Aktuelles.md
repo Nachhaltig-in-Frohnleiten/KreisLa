@@ -2,6 +2,10 @@
 title: "Aktuelles"
 ---
 
+*20.4.2022*
+
+**Vortrag "Nachhaltige Mode" ist abgesagt**
+
 *7.4.2022*
 
 <img src="assets/Fashion22.jpg" alt="drawing" width="350"/>
