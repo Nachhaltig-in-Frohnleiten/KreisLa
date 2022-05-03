@@ -2,6 +2,12 @@
 title: "Aktuelles"
 ---
 
+*3.5.2022*
+
+**Wir feiern unser einjähriges Bestehen und laden zum Geburtstagsfest!**
+<img src="assets/1 Jahr KreisLa.jpg" alt="drawing" width="350"/>
+
+
 *20.4.2022*
 
 **Vortrag "Nachhaltige Mode" ist abgesagt**
