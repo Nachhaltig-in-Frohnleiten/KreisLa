@@ -12,8 +12,8 @@ title: "Aktuelles"
 
 **Neue Öffnungszeiten**
 
-Der KreisLa hat ab Mai auch wieder am Freitag Nachmittag geöffnet.
-Aktuelle Öffnungszeiten: DI 16-18, FR 9-12 und 15-18, SA 9-12 Uhr
+Der KreisLa hat ab Mai auch wieder am Freitag Nachmittag geöffnet. 
+Aktuelle Öffnungszeiten: DI 16-18, FR 9-12 & 15-18, SA 9-12
 
 *20.4.2022*
 
