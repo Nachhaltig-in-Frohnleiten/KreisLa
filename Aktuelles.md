@@ -5,8 +5,14 @@ title: "Aktuelles"
 *3.5.2022*
 
 **Wir feiern unser einjähriges Bestehen und laden zum Geburtstagsfest!**
+
 <img src="assets/1 Jahr KreisLa.jpg" alt="drawing" width="350"/>
 
+*2.5.2022*
+
+**Wir feiern unser einjähriges Bestehen und laden zum Geburtstagsfest!**
+
+Der KreisLa hat ab Mai auch wieder am Freitag Nachmittag (15-18h) geöffnet.
 
 *20.4.2022*
 
