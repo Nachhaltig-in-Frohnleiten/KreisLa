@@ -10,9 +10,10 @@ title: "Aktuelles"
 
 *2.5.2022*
 
-**Wir feiern unser einjähriges Bestehen und laden zum Geburtstagsfest!**
+**Neue Öffnungszeiten**
 
-Der KreisLa hat ab Mai auch wieder am Freitag Nachmittag (15-18h) geöffnet.
+Der KreisLa hat ab Mai auch wieder am Freitag Nachmittag geöffnet.
+Aktuelle Öffnungszeiten: DI 16-18, FR 9-12 und 15-18, SA 9-12 Uhr
 
 *20.4.2022*
 
