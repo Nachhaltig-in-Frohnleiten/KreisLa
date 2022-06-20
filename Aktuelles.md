@@ -5,7 +5,8 @@ title: "Aktuelles"
 *20.6.2022*
 
 Am 4.6. haben wir der KreisLa seinen ersten Geburtstag gefeiert. Es war ein schönes Fest!
-<img src="assets/20220604_144551.jpg" alt="drawing" width="350"/> <img src="assets/1 Jahr KreisLa.jpg" alt="drawing" width="350"/> <img src="assets/1 Jahr KreisLa.jpg" alt="drawing" width="350"/> <img src="assets/1 Jahr KreisLa.jpg" alt="drawing" width="350"/>
+
+<img src="assets/20220604_144551.jpg" alt="drawing" width="250"/> <img src="assets/20220604_144734.jpg" alt="drawing" width="250"/> <img src="assets/20220604_170334.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190540.jpg" alt="drawing" width="250"/>
 
 *3.5.2022*
 
