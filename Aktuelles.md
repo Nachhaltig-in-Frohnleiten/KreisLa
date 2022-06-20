@@ -10,7 +10,7 @@ Wir haben ein paar Sammelboxen aufgestellt und wollen auch Dinge, die nicht dire
 🛒 Stöpsel (PP, PE und HD-PE) von (PET-)Flaschen: gehen an den Verein "Helfen statt Wegwerfen - Stöpsel Sammeln". Hier gibt es genaue Infos was gesammelt wird: helfenstattwegwerfen.at/sammelgut.html
 🕯 Wachs- und Kerzenreste jeder Größe: um neue Kerzen daraus zu machen
 
-<img src="assets/20220604_190540.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190242.jpg" alt="drawing" width="250"/>
+<img src="assets/Sammelboxen.jpg" alt="drawing" width="250"/> <img src="assets/Druckerpatronen.jpg" alt="drawing" width="250"/>
 
 *20.6.2022*
 
