@@ -4,6 +4,16 @@ title: "Aktuelles"
 
 *20.6.2022*
 
+Wir haben ein paar Sammelboxen aufgestellt und wollen auch Dinge, die nicht direkt wieder verwendet werden können, im Kreislauf halten.
+🖨 Druckerpatronen: Für Leib & Söl - Verein sammeln wir leere originale Druckerpatronen (Laser- und Tintenstrahldrucker). Nachbau-Patronen gehen leider nicht.
+🍾 Korken: gehen an "Korken Schiesser", die sie dann recyceln (korken.at/recycling)
+🛒 Stöpsel (PP, PE und HD-PE) von (PET-)Flaschen: gehen an den Verein "Helfen statt Wegwerfen - Stöpsel Sammeln". Hier gibt es genaue Infos was gesammelt wird: helfenstattwegwerfen.at/sammelgut.html
+🕯 Wachs- und Kerzenreste jeder Größe: um neue Kerzen daraus zu machen
+
+<img src="assets/20220604_190540.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190242.jpg" alt="drawing" width="250"/>
+
+*20.6.2022*
+
 Am 4.6. haben wir der KreisLa seinen ersten Geburtstag gefeiert. Es war ein schönes Fest!
 
 <img src="assets/20220604_144551.jpg" alt="drawing" width="250"/> <img src="assets/20220604_144734.jpg" alt="drawing" width="250"/> <img src="assets/20220604_170334.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190540.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190242.jpg" alt="drawing" width="250"/>
