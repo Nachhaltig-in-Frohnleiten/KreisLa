@@ -24,7 +24,9 @@ Wir haben ein paar Sammelboxen aufgestellt und wollen auch Dinge, die nicht dire
 
 Am 4.6. hat der KreisLa seinen ersten Geburtstag gefeiert. Es war ein schönes Fest mit euch! Wir freuen uns auf ein tolles zweites Jahr!
 
-<img src="assets/20220604_144551.jpg" alt="drawing" width="250"/> <img src="assets/20220604_144734.jpg" alt="drawing" width="250"/> <img src="assets/20220604_170334.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190540.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190242.jpg" alt="drawing" width="250"/>
+<img src="assets/20220604_144551.jpg" alt="drawing" width="250"/> <img src="assets/20220604_144734.jpg" alt="drawing" width="250"/> <img src="assets/20220604_170334.jpg" alt="drawing" width="250"/> 
+
+<img src="assets/20220604_190540.jpg" alt="drawing" width="250"/> <img src="assets/20220604_190242.jpg" alt="drawing" width="250"/>
 
 *3.5.2022*
 
