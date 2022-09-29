@@ -2,6 +2,14 @@
 title: "Aktuelles"
 ---
 
+*29.9.2022*
+
+**Lastenrad-Tag**
+
+Im Rahmen der europäischen Mobilitätswoche fand am 19.9. am Frohnleitner Hauptplatz ein "Lastenrad-Tag" statt. Es wurden 12 Lastenräder zum Testen bereit gestellt und viele, viele Runden damit am Hauptplatz gedreht.
+
+
+
 *20.6.2022*
 
 **Sammelboxen**
