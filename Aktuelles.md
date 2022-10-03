@@ -6,7 +6,7 @@ title: "Aktuelles"
 
 **Kastanien-Häckseln**
 
-Auch dieses Jahr laden wir wieder zum Kastanien-Häckseln für Waschpulver und Co auf den Frohnleitner-Hauptplatz!
+Auch dieses Jahr laden wir wieder zum Kastanien-Häckseln für Waschpulver und Co auf den Frohnleitner-Hauptplatz! Am Freitag den 7.10.!
 Der Häcksler steht während der Öffnungszeiten (9-12 und 15-18 Uhr) bereit - einfach Ross-Kastanien mitbringen und loshäckseln!
 Von 15:30 bis 16:30 könnt ihr euch vor dem KreisLa über Waschen mit Pflanzen und umweltfreundliches Waschen informieren!
 
