@@ -16,8 +16,8 @@ Von 15:30 bis 16:30 könnt ihr euch vor dem KreisLa über Waschen mit Pflanzen u
 
 Im Rahmen der europäischen Mobilitätswoche fand am 19.9. am Frohnleitner Hauptplatz ein "Lastenrad-Tag" statt. Es wurden 12 Lastenräder zum Testen bereit gestellt und viele, viele Runden damit am Hauptplatz gedreht.
 
-<img src="assets/radtag/Roadshow.jpg" alt="drawing" width="250"/> <img src="assets/radtag/Radtag22_1.jpg" alt="drawing" width="250"/> <img src="assets/radtag/Radtag22_2.jpg" alt="drawing" width="250"/> 
-<img src="assets/radtag/Radtag22_3.jpg" alt="drawing" width="350"/> <img src="assets/radtag/Radtag2022.JPG" alt="drawing" width="350"/> 
+<img src="assets/Roadshow.jpg" alt="drawing" width="250"/> <img src="assets/Radtag22_1.jpg" alt="drawing" width="250"/> <img src="assets/Radtag22_2.jpg" alt="drawing" width="250"/> 
+<img src="assets/Radtag22_3.jpg" alt="drawing" width="350"/> <img src="assets/Radtag2022.JPG" alt="drawing" width="350"/> 
 
 *20.6.2022*
 
