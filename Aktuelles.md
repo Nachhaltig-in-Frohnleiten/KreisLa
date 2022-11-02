@@ -4,6 +4,16 @@ title: "Aktuelles"
 
 *2.11.2022*
 
+**Europäische Woche der Abfallvermeidung**
+
+Von 19. bis 27. November findet wieder die Europäische Woche der Abfallvermeidung statt. 🌱🌍 Auch wir im KreisLa bieten ein Programm dazu an.
+Am Samstag, 26.11. finden gleich zwei Sachen statt: Am Vormittag kann man beim Repair Cafe Elektrogeräte reparieren 🔌🪛 und am Nachmittag kann man beim Naturkosmetik Workshop seine eigenen Pflegeprodukte herstellen. 🛀
+Am Sonntag, 27.11. werden wir Müll sammeln und wir freuen uns über tatkräftige Unterstützung. 🗑
+
+<img src="assets/EWWR_2022.jpg" alt="drawing" width="250"/>
+
+*2.11.2022*
+
 **Winter-Öffnungszeiten**
 
 Der KreisLa hat ab November Freitag nachmittags geschlossen. 
