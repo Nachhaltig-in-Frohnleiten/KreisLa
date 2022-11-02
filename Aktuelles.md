@@ -2,6 +2,14 @@
 title: "Aktuelles"
 ---
 
+*2.11.2022*
+
+**Winter-Öffnungszeiten**
+
+Der KreisLa hat ab November Freitag nachmittags geschlossen. 
+Aktuelle Öffnungszeiten: DI 16-18, FR 9-12, SA 9-12
+
+
 *1.10.2022*
 
 **Kastanien-Häckseln**
