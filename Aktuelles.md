@@ -23,9 +23,9 @@ NUR Stöpsel/Dreh-Verschluss (PP, PE und HD-PE) VON
 * Verschluss von Abwaschhilfe, Flüssigwaschmittel, Weichspüler, Scheuermittel
 * Verschluss von Auto-Scheibenreiniger, Motoröl, Frostschutz
 * Verschluss von Medikamente und Cremen [samt Tiegel - bitte unbedingt auswaschen]
+
 Alle festen Plastik-Materialien aus PP, PE und HD-PE  
 Die meisten Stöpsel/Verschlüsse/Materialien haben innen/unten den Aufdruck PP, PE oder auch HDPE
-
 NICHT die dünnen Aufreisslaschen, die meist eine Alubeschichtung haben
 
 
