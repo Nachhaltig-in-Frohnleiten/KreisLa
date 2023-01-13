@@ -2,6 +2,33 @@
 title: "Aktuelles"
 ---
 
+*13.01.2023*
+
+**Stöpsel sammeln für den guten Zwecks**
+
+Wir sammeln im KreisLa schon seit gut einem halben Jahr Plastikstöpseln (zB von PET Flaschen). Sie werden gesammelt und dem Recycling Prozess zugeführt. Eine dafür spezialisierte Recyclingstelle bezahlt für die Stöpseln und das eingenommene Geld wird dann für karikative Zwecks gespendet.
+Gerhard Bey fährt schon seit vielen Jahren in ganz Österreich herum und sammelt ehrenamtlich viele, viele Drehverschlüsse. Auch unsere Sammlung wird im Februar von ihm abgeholt.
+Deswegen hier noch mal der Aufruf - bringt uns eure Stöpseln!
+Denn nur wenn große Mengen gesammelt werden, zahlt sich dieser Aufwand auch aus. Wir werden den genauen Abholtermin, sobald wir ihn wissen, bekannt geben, damit auch wirklich alle Stöpseln rechtzeitig einlagen.
+
+Was wird genau gesammelt?
+NUR Stöpsel/Dreh-Verschluss (PP, PE und HD-PE) VON
+* (PET-) Getränkeflaschen, Sirup, Plastik-Sektkorken,
+* Verschluss von Mayonnaise, Ketchup, Senf Tuben und Flaschen
+* Verschluss von Milch, Kakao Vanillemilch(Tetra-Pack), Joghurt-, und Molkedrink
+* Verschluss von Vitamin-Brausetabletten(+Rohr), Nuss-Nougat-Brotaufstrichen
+* Verschluss von Erdnuss-, Chips-, Tabak-Dosen
+* Verschluss und ganze Verpackung von Kaugummidragees und Zuckerln
+* Verschluss von Flüssigseife, Zahnpaste, Körpercreme, Duschgel, Haarshampoo
+* Verschluss von Abwaschhilfe, Flüssigwaschmittel, Weichspüler, Scheuermittel
+* Verschluss von Auto-Scheibenreiniger, Motoröl, Frostschutz
+* Verschluss von Medikamente und Cremen [samt Tiegel - bitte unbedingt auswaschen]
+Alle festen Plastik-Materialien aus PP, PE und HD-PE  
+Die meisten Stöpsel/Verschlüsse/Materialien haben innen/unten den Aufdruck PP, PE oder auch HDPE
+
+NICHT die dünnen Aufreisslaschen, die meist eine Alubeschichtung haben
+
+
 *3.11.2022*
 
 **Europäische Woche der Abfallvermeidung**
