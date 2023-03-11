@@ -2,6 +2,22 @@
 title: "Aktuelles"
 ---
 
+
+*11.03.2023*
+
+**Repair Cafe und Saatguttausch**
+
+Gemeinsam geben wir deinem kaputten Elektrogerät eine zweite Chance, bring es in den KreisLa und wir starten mit dir einen Reparaturversuch!
+Auch kleine Reparaturen wie Kleben oder Schrauben können wir gerne übernehmen! Eine Voranmeldung und Beschreibung des Problems erhöht die Wahrscheinlichkeit dass wir dir helfen können!
+
+Vor der Türe kannst du gleich die Gelegenheit nutzen überschüssiges Saatgut und Jungpflanzen gegen die Schätze anderer GartenbesitzerInnen zu tauschen!
+Bitte nur samenfeste Sorten, möglichst regional und aus biologischem Anbau mitbringen 🙂 Wir freuen uns über vorbereitete, beschriftete Säckchen, aber auch z.B. ein Marmeladeglas mit Saatgut zum selbst abfüllen kann gerne gebracht werden!
+
+
+<img src="assets/RC_Saatguttausch.jpg" alt="drawing" width="350"/>
+
+
+
 *13.01.2023*
 
 **Stöpsel sammeln für den guten Zwecks**
