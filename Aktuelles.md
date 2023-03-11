@@ -20,7 +20,7 @@ Bitte nur samenfeste Sorten, möglichst regional und aus biologischem Anbau mitb
 
 *13.01.2023*
 
-**Stöpsel sammeln für den guten Zwecks**
+**Stöpsel sammeln für den guten Zweck**
 
 Wir sammeln im KreisLa schon seit gut einem halben Jahr Plastikstöpseln (zB von PET Flaschen). Sie werden gesammelt und dem Recycling Prozess zugeführt. Eine dafür spezialisierte Recyclingstelle bezahlt für die Stöpseln und das eingenommene Geld wird dann für karikative Zwecks gespendet.
 Gerhard Bey fährt schon seit vielen Jahren in ganz Österreich herum und sammelt ehrenamtlich viele, viele Drehverschlüsse. Auch unsere Sammlung wird im Februar von ihm abgeholt.
