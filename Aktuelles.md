@@ -10,7 +10,7 @@ Am Freitag war einiges los vor unserem KreisLa. Elektrogeräte wurden wieder fun
 Über 300 Samenpäckchen und an die 30 Pflänzchen wechselten die Besitzer. Vom Vogerlsalat über seltene Tomatensorten bis zur Indianerbanane wurde alles getauscht! Da noch einiges an Saatgut übrig geblieben ist, geht unser Samen-Rahmen bis Sonntag auf Wanderschaft, bitte nehmen was das Herz begehrt und wer möchte kann auch gerne noch Saatgut aufhängen.
 
 
-<img src="assets/RC1.jpg" alt="drawing" width="250"/> <img src="assets/RC2.jpg" alt="drawing" width="250"/> <img src="assets/RC3.jpg" alt="drawing" width="250"/> <img src="assets/RC4.jpg" alt="drawing" width="250"/> <img src="assets/SamenRahmen.jpg" alt="drawing" heigth="50"/> 
+<img src="assets/RC1.jpg" alt="drawing" width="250"/> <img src="assets/RC2.jpg" alt="drawing" width="250"/> <img src="assets/RC3.jpg" alt="drawing" width="250"/> <img src="assets/RC4.jpg" alt="drawing" width="250"/> <img src="assets/SamenRahmen.jpg" alt="drawing" width="400"/> 
 
 *11.03.2023*
 
