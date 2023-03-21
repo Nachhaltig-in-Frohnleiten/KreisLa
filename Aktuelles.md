@@ -2,6 +2,14 @@
 title: "Aktuelles"
 ---
 
+*21.03.2023*
+
+**Repair Cafe und Saatguttausch**
+
+Am Freitag war einiges los vor unserem KreisLa. Elektrogeräte wurden wieder funktionsfähig gemacht und Saatgut wurde getauscht.
+Über 300 Samenpäckchen und an die 30 Pflänzchen wechselten die Besitzer. Vom Vogerlsalat über seltene Tomatensorten bis zur Indianerbanane wurde alles getauscht! Da noch einiges an Saatgut übrig geblieben ist, geht unser Samen-Rahmen bis Sonntag auf Wanderschaft, bitte nehmen was das Herz begehrt und wer möchte kann auch gerne noch Saatgut aufhängen.
+
+
 
 *11.03.2023*
 
