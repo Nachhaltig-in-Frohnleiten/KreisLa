@@ -46,7 +46,7 @@ Und zum Abschluss wollen wir noch genauer auf die Lösungen hinschauen. Denn gen
 👔 Second Hand: hier gibt es in Carla Läden und diversen Second Hand Läden viel zum Schökern. Auch schon mal was vom Vintage Kilo Sale gehört? Gerade dieses WE findet in Graz einer von BeThrifty statt und auch online sind bei Second Hand den Möglichkeiten keine Grenzen gesetzt (zB Vinted, Babäm Second Hand)
 👕 Neu Kaufen: auch hier sind mittlerweile einige nachhaltig produzierte Produkte am Markt, (zB Lounge Cherie, Peaces.bio)
 
-<img src="assets/Konsumpyramide.jpg" alt="drawing" width="250"/>
+<img src="assets/Konsumpyradmide.jpg" alt="drawing" width="250"/>
 
 
 *21.03.2023*
