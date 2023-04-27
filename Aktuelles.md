@@ -7,6 +7,8 @@ title: "Aktuelles"
 
 **Fashion Revolution Week**
 
+<img src="assets/1_A+O.jpg" alt="drawing" width="300"/>  <img src="assets/3_Nina.jpg" alt="drawing" width="300"/> <img src="assets/7_A+S.jpg" alt="drawing" width="300"/> <img src="assets/4_S_Wegwerfmode.jpg" alt="drawing" width="225"/> <img src="assets/2_A_FastFashion.jpg" alt="drawing" width="225"/> <img src="assets/5_R_ModeWasser.jpg" alt="drawing" width="225"/> <img src="assets/6_A+O_ModeChemie.jpg" alt="drawing" width="225"/> 
+
 Wir befinden uns in der Fast Fashion Revolution Week. 👕👖 Denn die Textilindustrie ist ein Bereich wo wir unbedingt eine Veränderung brauchen. Diese Aktionswoche dreht sich jedes Jahr um den Fast Fashion Revolution Day - den 24. April. Denn am 24. April 2013 stürzte in Bangladesh das Rana Plaza Gebäude ein. Ein Gebäude in dem Fast Fashion produziert wurde. Beim Einsturz kamen 1.135 Menschen ums Leben und über 2.400 Menschen wurden verletzt. Es war ein Unglück, das einfach nicht passieren hätte dürfen. Es war ein Tag mit so viel Leid und Trauer.
 Trauer, die vermeidbar gewesen wäre, wenn die Fast Fashion Industrie nicht so wäre wie sie ist. Wenn die Modeindustrie die Preise nicht so niedrig wie möglich machen würde und man somit nicht überall Geld einsparen muss. Geld einsparen auf Kosten der Arbeiter. Geld auf Kosten der Arbeitssicherheit. Und diese mangelnde Arbeitssicherheit kostete so Vielen das Leben.
 Wie kam es zu dem Unfall? Am Vortrag - den 23.4.2013 - wurden im Rana Plaza Gebäude Risse festgestellt und die Polizei verbot den Zutritt. Die Fabrikbetreiber haben die Angestellten gezwungen dennoch ihre Arbeit aufzunehmen. Im Bericht der Untersuchungskommission wurde grobe Fahrlässigkeit als Hauptursache genannt (minderwertige Baumaterialien, Bauland nicht geeignet für mehrgeschossiges Gebäude,...).
@@ -44,7 +46,7 @@ Und zum Abschluss wollen wir noch genauer auf die Lösungen hinschauen. Denn gen
 👔 Second Hand: hier gibt es in Carla Läden und diversen Second Hand Läden viel zum Schökern. Auch schon mal was vom Vintage Kilo Sale gehört? Gerade dieses WE findet in Graz einer von BeThrifty statt und auch online sind bei Second Hand den Möglichkeiten keine Grenzen gesetzt (zB Vinted, Babäm Second Hand)
 👕 Neu Kaufen: auch hier sind mittlerweile einige nachhaltig produzierte Produkte am Markt, (zB Lounge Cherie, Peaces.bio)
 
-
+<img src="assets/Konsumpyramide.jpg" alt="drawing" width="250"/>
 
 
 *21.03.2023*
