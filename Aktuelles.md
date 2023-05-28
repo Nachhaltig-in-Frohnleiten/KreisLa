@@ -2,6 +2,15 @@
 title: "Aktuelles"
 ---
 
+*28.5.2023*
+
+**KreisLa feiert Geburtstag!**
+
+Den KreisLa gibt es nun seit zwei Jahren und das gehört gefeiert! Kommt zum Hauptplatz für ein gemütliches Zusammensein.
+Wie bei jedem guten Fest gibt es Verpflegung, Kinderprogramm und auf vielfachen Wunsch dieses Mal auch ein Repair Café für Elektrogeräte.
+Wir freuen uns auf euch! 
+<img src="assets/KreisLaFest.jpg" alt="drawing" width="400"/>
+
 
 *27.04.2023*
 
