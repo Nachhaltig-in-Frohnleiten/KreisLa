@@ -2,6 +2,23 @@
 title: "Aktuelles"
 ---
 
+*09.06.2023*
+
+**Bei uns gibt es was Neues - ein Wertschätzungsregal**
+
+>> DAS WERTSCHÄTZUNGSREGAL <<
+In unserem Regal befinden sich Gegenstände, die nach unserer Einschätzung etwas mehr wert haben oder BringerInnen sich eine gute Spende💸 für uns wünschen. Es befinden sich im Regal Dinge, die gebracht wurden, aber auch Dinge, die von uns selbst produziert wurden. 🕯
+Warum ein eigenes Regal: 
+- Wir benötigen finanzielle Spenden für die Erhaltung des KreisLas (laufende Kosten).
+- Es soll nicht eine einzelne Person alle wertvollen Dinge mitnehmen.
+- Man soll etwas nicht nur nehmen, weil es „gratis“ ist, sondern den Wert der Ressourcen, die Arbeit und den Transport wertschätzen. 🚛✈️🎋👩‍🌾🧑‍🌾
+Wie funktioniert es:
+- Von außen in die Vitrine schauen und auswählen. 👀
+- Eine/n ehrenamtliche/n Mitarbeiter/in vor Ort ansprechen und einen Betrag, der im eigenen Ermessen wertschätzend ist, nennen. 💬
+- Unser Spendenglas befüllen.💶💶
+- Der/die Mitarbeiter/in händigt das Produkt aus dem Regal aus.
+
+
 *28.5.2023*
 
 **KreisLa feiert Geburtstag!**
