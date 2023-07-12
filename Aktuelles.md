@@ -2,6 +2,12 @@
 title: "Aktuelles"
 ---
 
+*12.07.2023*
+
+**Trachten**
+
+<img src="assets/Trachten.jpg" alt="drawing" width="400"/>
+
 *09.06.2023*
 
 **Bei uns gibt es was Neues - ein Wertschätzungsregal**
@@ -27,7 +33,8 @@ Wie funktioniert es:
 Den KreisLa gibt es nun seit zwei Jahren und das gehört gefeiert! Kommt zum Hauptplatz für ein gemütliches Zusammensein.
 Wie bei jedem guten Fest gibt es Verpflegung, Kinderprogramm und auf vielfachen Wunsch dieses Mal auch ein Repair Café für Elektrogeräte.
 Wir freuen uns auf euch! 
-<img src="assets/KreisLaFest.jpg" alt="drawing" width="400"/>
+
+
 
 
 *27.04.2023*
