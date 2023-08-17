@@ -6,21 +6,21 @@ title: "Bringen und Nehmen"
 
 Nur Intaktes, was man auch seinen Freunden schenken würde. Die Dinge müssen sauber und funktionsfähig sein:
 - Kleidung (ohne Flecken und Löcher)
-- Kindersachen (Gewand, Spielzeug, Kinderbücher, Zubehör,...)
+- Kindersachen (Gewand, Spielzeug, Zubehör,...)
 - Geschirr
 - Küchenutensilien
 - Heimtextilien (Bettwäsche, Vorhänge,…)
 - Werkzeuge
 - Elektrokleingeräte (nur funktionierende)
 - Sportartikel
-- Schuhe, Taschen, Tücher, Schmuck
+- Schuhe (nur neuwertige!), Taschen, Tücher, Schmuck
 - Kosmetikartikel
 - Spiele (Brett-, Kartenspiele)
 - Dekoartikel (Bilder, saisonales Dekomaterial,...)
 
 Größere Artikel können mit Bild und/oder einem Text auf unsere Pinnwand aufgehängt werden.
 
-Keine CDs/DVDs/VHS/Audiokassetten und keine Bücher (außer Kinderbücher und Bücher zum Thema Nachhaltigkeit)
+Keine CDs/DVDs/VHS/Audiokassetten und keine Bücher
 
 
 **Wie viel kann gebracht und genommen werden?**
