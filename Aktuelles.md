@@ -2,6 +2,15 @@
 title: "Aktuelles"
 ---
 
+*22.08.2023*
+
+**Trachtenflohmarkt**
+
+ Der Trachtenflohmarkt rückt immer näher. Diesen Samstag im Rahmen des Steierfestes am Hauptplatz Frohnleiten. Mit Modenschau und Tombola! Schau vorbei.
+
+<img src="assets/Trachten1.jpg" alt="drawing" width="400"/>
+
+
 *12.07.2023*
 
 **Trachten**
