@@ -26,7 +26,7 @@ Keine CDs/DVDs/VHS/Audiokassetten und keine Bücher
 **Wie viel kann gebracht und genommen werden?**
 
 Wir haben derzeit (noch) keine Stückbegrenzung beim Mitnehmen und Bringen.
-Als Richtwert gilt zu sagen, dass man Dinge bringen kann die man selbst ohne fremde Hilfe tragen kann (zB eine Bananenschachtel voll). Wir bitten hier zu bedenken, dass wir einerseits nur begrenzten Platz haben (also bitte nicht säckeweise Sachen bringen - gerade bei Kleidung) und andererseits genug für alle da sein soll (der Laden nicht halb leer geräumt werden soll). Als Richtwert zum Mietnehmen gilt 10-15 Stk pro Person (je nach Art der Gegenstände).
+Als Richtwert gilt zu sagen, dass man Dinge bringen kann die man selbst ohne fremde Hilfe tragen kann (zB eine Bananenschachtel voll). Wir bitten hier zu bedenken, dass wir einerseits nur begrenzten Platz haben (also bitte nicht säckeweise Sachen bringen - gerade bei Kleidung) und andererseits genug für alle da sein soll (der Laden nicht halb leer geräumt werden soll). Als Richtwert zum Mitnehmen gilt 10-15 Stk pro Person (je nach Art der Gegenstände).
 Bei gewissen Dingen behalten wir es uns vor nur eine gewisse Stückzahl pro Person herzugeben.
 
 Auch Dinge die gratis sind, haben einen Wert. Nimm nur das, was du wirklich brauchen kannst. 
