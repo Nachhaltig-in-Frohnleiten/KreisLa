@@ -2,6 +2,15 @@
 title: "Aktuelles"
 ---
 
+*03.09.2023*
+
+**Repair Cafe**
+
+Unser nächstes Repair Cafe findet am Samstag den 16. September 2023 von 9 bis 12 Uhr direkt am Frohnleitner Hauptplatz im Rahmen des Frohnleitner Umweltfestes statt. Bringt euer defektes Elektrogerät vorbei und startet mit unseren ehrenamtlichen Helfern einen Reparaturversuch!
+
+<img src="assets/Umweltfest.jpg" alt="drawing" width="400"/>
+
+
 *22.08.2023*
 
 **Trachtenflohmarkt**
