@@ -4,7 +4,6 @@ title: "Öffnungszeiten"
 
 Der KreisLa hat folgende Öffnungszeiten:
 - Dienstags von 16 bis 18 Uhr
-- Donnerstags von 16 bis 18 Uhr
 - Freitags von 9 bis 12 Uhr
 - Samstags von 9 bis 12 Uhr
 
