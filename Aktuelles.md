@@ -2,9 +2,15 @@
 title: "Aktuelles"
 ---
 
+*12.12.2023*
+
+**Repair Cafe Jänner 2024**
+
+Save the Date: Unser nächstes Repair Cafe findet am Samstag den 20. Jänner 2024 von 14 bis 17 Uhr im KreisLa statt.
+
 *02.11.2023*
 
-**Repair Cafe**
+**Repair Cafe November 2023**
 
 Unser nächstes Repair Cafe findet am Freitag den 24. November 2023 von 14 bis 17 Uhr im KreisLa statt. Diesmal nicht nur für defekte Elektrogeräte, sondern es wird auch geklebt, geleimt und geschraubt.
 
