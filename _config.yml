@@ -5,6 +5,8 @@ author:
   email: info@nachhaltig-in-frohnleiten.at
 show_excerpts: false # set to true to show excerpts on the homepage
 
+locale: de-AT
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
