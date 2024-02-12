@@ -2,6 +2,26 @@
 title: "Aktuelles"
 ---
 
+*12.02.2023*
+
+**Repair Cafe und Samentausch 15. März 2023 14-17 Uhr**
+
+Hast du kaputte Dinge, die du gerne reparieren möchtest? Oder möchtest du einfach mal dabei sein, wenn andere handwerklich tätig werden? Dann ist das Repair Café genau das Richtige für dich!
+Aber was ist ein Repair Café eigentlich?
+Bei einem Repair Café kannst du kaputte Dinge mitbringen, und gemeinsam versuchen wir, sie wieder instand zu setzen. Das Ziel ist klar: Wir möchten Dinge länger nutzbar machen. Dadurch vermeiden wir teure Neuanschaffungen und leisten einen Beitrag zur Reduzierung von Abfall. Oftmals sind es nur kleine Mängel, die schnell behoben werden können. Und selbst wenn eine Reparatur einmal nicht gelingt, bleibt der Erfahrungsaustausch bei Kaffee und Kuchen ein unterhaltsames Erlebnis. Jede Reparatur ist eine Lernmöglichkeit für alle Beteiligten, ganz im Sinne von **"Hilf mir, es selbst zu tun"**.
+Wer sind die Reparateure? Unser Team besteht aus Hobby-Bastlern, die gemeinsam mit den Besitzern der defekten Gegenstände an Lösungen arbeiten. Viele unserer Hobby-Bastler haben sich auf Elektrogeräte spezialisiert, aber auch bei diversen Klebearbeiten können wir helfen. (Bitte beachte, dass wir oft bestimmte Schwerpunkte setzen.)
+Bitte grundsätzlich nur Dinge bringen, die man alleine bequem tragen kann und notwendiges Zubehör (Fernbedienung, Akku, Kabel…) nicht vergessen.
+
+Was kostet ein Besuch im Repair Café? Unsere Mitarbeiter arbeiten ehrenamtlich, daher bitten wir lediglich um eine freiwillige Spende für die laufenden Kosten unseres Kreislaufladens und für verschiedene Projekte.
+Wir möchten darum bitten, während der Reparatur anwesend zu bleiben, um gemeinsam Lösungen zu finden und Erfahrungen auszutauschen.
+
+Und nachdem das Saatgut- und Pflanzentauschen letztes Jahr sehr gut angenommen wurde, startet es in die zweite Runde – gemeinsam mit dem Obst- und Gartenbauverein. Vorm KreisLa kann man Saatgut bringen und nehmen und bei einer Tasse Kaffee Erfahrungen austauschen. Danach geht wieder der Samen-Rahmen auf eine Reise quer durch Frohnleiten und im Mai gibt es einen Jungpflanzentausch.
+
+Saatgut- und Jungpflanzentausch trägt wesentlich dazu bei, alte Sorten zu erhalten und den ökologischen Fußabdruck beim Gärtnern zu verringern.
+
+<img src="assets/RC_2024_03.pdf" alt="drawing" width="400"/>
+
+
 *12.12.2023*
 
 **Repair Cafe Jänner 2024**
