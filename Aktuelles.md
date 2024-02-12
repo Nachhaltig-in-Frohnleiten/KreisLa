@@ -19,8 +19,6 @@ Und nachdem das Saatgut- und Pflanzentauschen letztes Jahr sehr gut angenommen w
 
 Saatgut- und Jungpflanzentausch trägt wesentlich dazu bei, alte Sorten zu erhalten und den ökologischen Fußabdruck beim Gärtnern zu verringern.
 
-<img src="assets/RC_2024_03.pdf" alt="drawing" width="400"/>
-
 
 *12.12.2023*
 
