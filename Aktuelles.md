@@ -2,6 +2,15 @@
 title: "Aktuelles"
 ---
 
+*16.04.2023*
+
+**Jungpflanzentausch**
+
+Du hast fleißig vorgezogen und noch Pflänzchen übrig? Im Garten wuchert es und es muss ausgedünnt werden? Die Stecklinge vom Vorjahr sind gut angewachsen und es sind noch Stecklinge da?
+Dann komm zum KreisLa und tausche deine Gartenschätze! Gemeinsam mit dem Obst- und Gartenbauverein Frohnleiten organisieren wir auch dieses Jahr wieder einen Jungpflanzentausch! Obendrauf kannst du sicher auch einiges an Wissen und Erfahrungen mitnehmen!
+Bei deiner Ankunft teilen wir deine Pflanzen grob in 3 Kategorien ein, du bekommst für jede mitgebrachte Pflanze einen Tauschbon und los gehts!
+
+
 *12.02.2023*
 
 **Repair Cafe und Samentausch 15. März 2023 14-17 Uhr**
