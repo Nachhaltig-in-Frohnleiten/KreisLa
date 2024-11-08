@@ -15,7 +15,7 @@ Bei Fragen und Anliegen erreicht ihr uns unter:
 
 Wir sind der Verein "Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten". Gegründet im Oktober 2020, haben wir uns zum Ziel gesetzt, das Thema Nachhaltigkeit in unserer Gemeinschaft veranzubringen.
 
-<img src="assets/GruppenfotoLänglich.JPG" alt="drawing" width="600"/>
+<img src="assets/Teekanne_Gruppenbild.jpg" alt="drawing" width="600"/>
 
 
 **Unser Ziel**
