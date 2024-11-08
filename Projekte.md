@@ -13,7 +13,7 @@ Mindestens viermal im Jahr lädt der KreisLa zu Repair Cafés ein, bei denen def
 Unsere jährlichen Trachtenflohmärkte, die in Zusammenarbeit mit Vereinen wie dem Musikverein Frohnleiten organisiert werden, beleben das Stadtzentrum und tragen zur Erhaltung historischer Gebäude bei. Neben dem Flohmarkt sorgen zusätzliche Events wie Modenschauen und Verlosungen für Abwechslung und binden lokale Partner ein, um nachhaltige Kleidung und regionale Produkte zu fördern.
 
 <img src="assets/Trachtenflohmarkt2.jpg" alt="drawing" width="250"/> 
-<img src="assets/Trachtenflohmarkt_Gruppenfoto.jpg" alt="drawing" width="500"/>
+<img src="assets/Trachtenflohmarkt.jpg" alt="drawing" width="500"/>
 
 **Jugendzentrum „JUFO“ - Nachhaltige Räume für die nächste Generation**
 
@@ -38,6 +38,8 @@ Ein Beitrag zur nachhaltigen Zukunft von Frohnleiten
 
 Regelmäßige Workshops zu umweltfreundlichen Themen sowie Partnerschaften mit lokalen Schulen und Kindergärten fördern das Umweltbewusstsein bei Kindern und Jugendlichen und zeigen praktische Wege auf, Nachhaltigkeit im Alltag zu leben. Netzwerkveranstaltungen und der Austausch mit Partnerorganisationen wie der Klima- und Energie-Modellregion (KEM) und der Klimawandelanpassungsmodellregion (KLAR) Graz-Nord stärken die regionale Zusammenarbeit und bündeln Ressourcen für nachhaltige Projekte.
 
-Wir freuen uns sehr, dass wir 2024 mit dem **2. Platz für die Zukunftsgemeinde Steiermark** ausgezeichnet wurden. Die Zusammenarbeit mit der Stadtgemeinde und regionalen Akteuren schafft ein breites Netzwerk, das die Nachhaltigkeitsziele der Region unterstützt. Mit unseren Projekten wollen wir auch zur Belebung des Stadtzentrums beitragen und sind jederzeit offen für Vorschläge und Wünsche zu Workshopthemen. Auch Freiwillige sind willkommen, melde dich bei uns per Mail oder direkt im KreisLa, es gibt viele Möglichkeiten sich einzubringen.
+**Zukunftspreis**
+
+Wir freuen uns sehr, dass wir 2024 mit dem 2. Platz für die Zukunftsgemeinde Steiermark ausgezeichnet wurden. Die Zusammenarbeit mit der Stadtgemeinde und regionalen Akteuren schafft ein breites Netzwerk, das die Nachhaltigkeitsziele der Region unterstützt. Mit unseren Projekten wollen wir auch zur Belebung des Stadtzentrums beitragen und sind jederzeit offen für Vorschläge und Wünsche zu Workshopthemen. Auch Freiwillige sind willkommen, melde dich bei uns per Mail oder direkt im KreisLa, es gibt viele Möglichkeiten sich einzubringen.
 
 <img src="assets/Zukunftspreis.jpg" alt="drawing" width="250"/> 
