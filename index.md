@@ -13,7 +13,7 @@ Bei Fragen und Anliegen erreicht ihr uns unter:
 * Email: info@nachhaltig-in-frohnleiten.at
 * im KreisLa: Hauptplatz 19, 8130 Frohnleiten
 
-Wir sind der Verein "Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten". Gegründet im Oktober 2020, haben wir uns zum Ziel gesetzt, das Thema Nachhaltigkeit in unserer Gemeinschaft veranzubringen.
+Wir sind der Verein **"Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten"**. Gegründet im Oktober 2020, haben wir uns zum Ziel gesetzt, das Thema Nachhaltigkeit in unserer Gemeinschaft veranzubringen.
 
 <img src="assets/Teekanne_Gruppenbild.jpg" alt="drawing" width="600"/>
 
