@@ -2,7 +2,7 @@
 Title: Verein
 ---
 
-Schön, dass du hier bist!
+**Schön, dass du hier bist!**
 
 Aktuelle Informationen wie Öffnungszeiten und Veranstaltungen findest du auf:
 * Cities: citiesapp.com/pages/nachhaltig-in-frohnleiten
