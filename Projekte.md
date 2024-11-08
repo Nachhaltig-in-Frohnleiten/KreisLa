@@ -12,9 +12,8 @@ Mindestens viermal im Jahr lädt der KreisLa zu Repair Cafés ein, bei denen def
 
 Unsere jährlichen Trachtenflohmärkte, die in Zusammenarbeit mit Vereinen wie dem Musikverein Frohnleiten organisiert werden, beleben das Stadtzentrum und tragen zur Erhaltung historischer Gebäude bei. Neben dem Flohmarkt sorgen zusätzliche Events wie Modenschauen und Verlosungen für Abwechslung und binden lokale Partner ein, um nachhaltige Kleidung und regionale Produkte zu fördern.
 
-<img src="assets/Trachtenflohmarkt.jpg" alt="drawing" width="250"/> 
 <img src="assets/Trachtenflohmarkt2.jpg" alt="drawing" width="250"/> 
-<img src="assets/Trachtenflohmarkt_Gruppenfoto.jpg" alt="drawing" width="250"/>
+<img src="assets/Trachtenflohmarkt_Gruppenfoto.jpg" alt="drawing" width="500"/>
 
 **Jugendzentrum „JUFO“ - Nachhaltige Räume für die nächste Generation**
 
