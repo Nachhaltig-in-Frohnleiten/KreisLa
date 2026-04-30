@@ -9,9 +9,3 @@ Im Herzen von Frohnleiten gelegen, bietet der KreisLa einen offenen Raum für di
 <img src="assets/Ganz2.jpg" alt="drawing" width="600"/>
 
 {% include my-gallery.html folder="assets/kreislafotos1" %}
-
-**Wir sammeln**
-
-<img src="assets/WirSammeln.png" alt="drawing" width="350"/>
-
-In allen Produkten stecken wertvolle Rohstoffe drinnen. Um möglichst viele Rohstoffe im KreisLauf zu halten, sammeln wir im KreisLa diverse Sachen. Einfach im KreisLa während der Öffnungszeiten abgeben. Relevante Links dazu: korken.at/recycling, sozialprojekt.at (Druckerpatronen), brillen-ohne-grenzen.at
