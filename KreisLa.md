@@ -13,9 +13,13 @@ Im Herzen von Frohnleiten gelegen, bietet der KreisLa einen offenen Raum für di
 **Wir sammeln**
 
 In allen Produkten stecken wertvolle Rohstoffe drinnen. Um möglichst viele Rohstoffe im KreisLauf zu halten, sammeln wir im KreisLa diverse Sachen. Einfach im KreisLa während den Öffnungszeiten abgeben:
+
 🕯️ Kerzenreste: daraus werden von uns (oder Kooperationspartnern) neue Kerzen gegossen
+
 🍾 Korken: werden zu “Korken Schiesser” geschickt und so recycelt im Projekt ReKork (korken.at/recycling)
+
 🖨️ Toner-/Druckerpatronen: werden für die “österreichische Kinderkrebshilfe” gesammelt (sozialprojekt.at)
+
 👓 Optische Brillen: gehen an “Brillen ohne Grenzen” (brillen-ohne-grenzen.at)
 
-<img src="assets/WirSammeln.png" alt="drawing" width="250"/> <img src="assets/Druckerpatronen.jpg" alt="drawing" width="250"/>
+<img src="assets/WirSammeln.png" alt="drawing" width="250"/>
