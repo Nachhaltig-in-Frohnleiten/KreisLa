@@ -8,4 +8,4 @@ Der KreisLa hat folgende Öffnungszeiten:
 - Freitags von 9 bis 12 Uhr
 - Samstags von 9 bis 12 Uhr
 
-Waren können nur während den Öffnungszeiten entgegen genommen werden. Bitte nichts außerhalb der Öffnungszeiten einfach vor die Türe stellen.
+Waren können nur während den Öffnungszeiten entgegen genommen werden. Bitte nichts außerhalb der Öffnungszeiten vor die Türe stellen.
