@@ -9,7 +9,7 @@ Aktuelle Informationen wie Öffnungszeiten und Veranstaltungen findest du auf:
 * Facebook: fb.com/nachhaltiginfrohnleiten
 * Instagram: instagram.com/nachhaifro
 
-Bei Fragen und Anliegen erreicht ihr uns unter:
+Bei Fragen und Anliegen erreichst du uns unter:
 * Email: info@nachhaltig-in-frohnleiten.at
 * im KreisLa: Hauptplatz 19, 8130 Frohnleiten
 
@@ -20,5 +20,5 @@ Wir sind der Verein **"Nachhaltig in Frohnleiten – Verein zur Förderung eines
 
 **Unser Ziel**
 
-Unser Ziel ist es, den Menschen in Frohnleiten praktische Möglichkeiten zu bieten, ihren Alltag nachhaltiger zu gestalten. Das erreichen wir einerseits durch den Aufbau der nötigen Infrastruktur – wie unseren KreisLa (Kreislaufladen), das Lebensmittelretten in Kooperation mit der Caritas oder das Repair Café – und andererseits durch die Weitergabe von Wissen in Workshops, Veranstaltungen und Netzwerktreffen.
+Unser Ziel ist es, den Menschen in Frohnleiten praktische Möglichkeiten zu bieten, ihren Alltag nachhaltiger zu gestalten. Das erreichen wir einerseits durch den Aufbau der nötigen Infrastruktur – wie unseren KreisLa (Kreislaufladen), das Lebensmittelretten in Kooperation mit der Caritas oder mit unseren Repair Cafés – und andererseits durch die Weitergabe von Wissen in Workshops, Veranstaltungen und Netzwerktreffen.
 Wir möchten Bewusstsein für Nachhaltigkeit und Umweltschutz schaffen und Menschen für diese wichtigen Themen sensibilisieren. Außerdem bieten wir eine Anlaufstelle und ein Netzwerk für alle, die sich für Nachhaltigkeit interessieren und sich zu diesen Themen austauschen möchten.
