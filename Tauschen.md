@@ -22,6 +22,13 @@ Unser Platz ist sehr begrenzt und wir können nur annehmen, was in den Laden pas
 Nicht angenommen werden: CDs, DVDs, VHS-Kassetten, Audiokassetten und Bücher
 
 
+**Wir sammeln**
+
+<img src="assets/WirSammeln.png" alt="drawing" width="350"/>
+
+In allen Produkten stecken wertvolle Rohstoffe drinnen. Um möglichst viele Rohstoffe im KreisLauf zu halten, sammeln wir im KreisLa diverse Sachen. Einfach im KreisLa während der Öffnungszeiten abgeben. Relevante Links dazu: korken.at/recycling, sozialprojekt.at (Druckerpatronen), brillen-ohne-grenzen.at
+
+
 **Wie viel kann gebracht und genommen werden?**
 
 **Bringen**: Es gibt keine feste Begrenzung für die Anzahl der Gegenstände, die gebracht werden können. Als Richtwert gilt jedoch: Bringe bitte nur so viel, wie du selbst tragen kannst (z.B. eine Bananenschachtel voll). Da wir nur begrenzten Platz haben, bitten wir darum, Kleidung und andere Artikel nicht in großen Mengen mitzubringen. Wenn du Dinge abgeben möchtest, übergib sie bitte direkt unseren MitarbeiterInnen während der Öffnungszeiten – bitte keine Sachen vor der Tür abstellen. 
