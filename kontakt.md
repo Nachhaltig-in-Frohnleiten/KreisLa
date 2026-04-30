@@ -2,13 +2,12 @@
 title: "Kontakt"
 ---
 
-Ihr erreicht uns unter:
-
-* Email: info@nachhaltig-in-frohnleiten.at
-* Cities: citiesapp.com/pages/nachhaltig-in-frohnleiten
+Aktuelle Informationen und Veranstaltungen findest du auf:
 * Facebook: fb.com/nachhaltiginfrohnleiten
 * Instagram: instagram.com/nachhaifro
-* Homepage: nachhaltig-in-frohnleiten.at
+* Cities: citiesapp.com/pages/nachhaltig-in-frohnleiten
 
-Adresse KreisLa:
-Hauptplatz 19, 8130 Frohnleiten
+Bei Fragen und Anliegen erreichst du uns unter:
+* Email: info@nachhaltig-in-frohnleiten.at
+
+Adresse KreisLa: Hauptplatz 19, 8130 Frohnleiten
