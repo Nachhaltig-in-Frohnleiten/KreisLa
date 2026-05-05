@@ -1,10 +1,12 @@
-- title: Projekte
-  url: /Projekte.html
 - title: KreisLa
   url: /KreisLa.html
 - title: Bringen und Nehmen
   url: /Tauschen.html
 - title: Öffnungszeiten
-  url: /Öffnungszeiten.html
+  url: /Oeffnungszeiten.html
+- title: Projekte
+  url: /Projekte.html
+- title: On Tour
+  url: /KreisLaOnTour.html
 - title: Kontakt
-  url: /kontakt.html
+  url: /Kontakt.html
