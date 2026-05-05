@@ -10,9 +10,10 @@ Die Termine in der zweiten Hälfte 2026: 20.6. von 10-15 Uhr (im Rahmen des Umwe
 <img src="assets/RC3.jpg" alt="drawing" width="220"/> <img src="assets/RC1.jpg" alt="drawing" width="220"/>
 <img src="assets/RC_Foto.jpg" alt="drawing" width="220"/> <img src="assets/RC_Foto_naehen.jpg" alt="drawing" width="225"/>
 
-**Lebensmittel retten**
+**Kooperationen**
 
-In Zusammenarbeit mit der Caritas Ortsgruppe werden auch gerettete Lebensmittel angeboten. Diese stammen von Supermärkten und stehen kurz vor oder knapp nach dem Mindesthaltbarkeitsdatum. Indem wir diese Lebensmittel kostenlos weitergeben, helfen wir Ressourcen im Bereich Nahrungsmittel zu schonen.
+In Zusammenarbeit mit der Caritas Ortsgruppe werden gerettete Lebensmittel im KreisLa angeboten. Diese stammen von Supermärkten und stehen kurz vor oder knapp nach dem Mindesthaltbarkeitsdatum. Indem wir diese Lebensmittel kostenlos weitergeben, helfen wir Ressourcen im Bereich Nahrungsmittel zu schonen.
+Austausch mit Partnerorganisationen wie der Klimaregion Graz-Nord stärken die regionale Zusammenarbeit und bündeln Ressourcen für nachhaltige Projekte. So haben wir das Tauschregal im Storchennest (Eltern-Kind-Zentrum), die Schultaschenaktion mit dem Elternverein der Volksschule Frohnleiten, gemeinsame Veranstaltungen (Umweltfest), die Repair Cafès im Jufo (Jugendzentrum) und immer wieder ergeben sich neue Kooperationen.
 
 <img src="assets/Lebensmittelrettung.jpg" alt="drawing" width="250"/> 
 
@@ -22,9 +23,6 @@ Unsere Saatgut- und Jungpflanzentausch-Aktionen im Frühling bieten der Gemeinsc
 
 <img src="assets/RC2.jpg" alt="drawing" width="250"/> 
 
-**Umwelt-Workshops und Kooperationen**
-
-Workshops zu umweltfreundlichen Themen sowie Partnerschaften mit lokalen Schulen und Kindergärten fördern das Umweltbewusstsein bei Kindern und Jugendlichen und zeigen praktische Wege auf Nachhaltigkeit im Alltag zu leben. Netzwerkveranstaltungen und der Austausch mit Partnerorganisationen wie der Klimaregion Graz-Nord stärken die regionale Zusammenarbeit und bündeln Ressourcen für nachhaltige Projekte.
 
 **Zukunftspreis**
 
