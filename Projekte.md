@@ -28,4 +28,4 @@ Unsere Saatgut- und Jungpflanzentausch-Aktionen im Frühling bieten der Gemeinsc
 
 Wir freuen uns sehr, dass wir 2024 mit dem 2. Platz für die Zukunftsgemeinde Steiermark ausgezeichnet wurden. Die Zusammenarbeit mit der Stadtgemeinde und regionalen Akteuren schafft ein breites Netzwerk, das die Nachhaltigkeitsziele der Region unterstützt. Mit unseren Projekten wollen wir auch zur Belebung des Stadtzentrums beitragen und sind jederzeit offen für Vorschläge und Wünsche zu Workshopthemen. Auch Freiwillige sind willkommen, melde dich bei uns per Mail oder direkt im KreisLa, es gibt viele Möglichkeiten sich einzubringen.
 
-<img src="assets/Zukunftspreis.jpg" alt="drawing" width="250"/> <img src="assets/Zukunftspreis.jpg" alt="drawing" width="250"/> 
+<img src="assets/Zukunftspreis.jpg" alt="drawing" width="260"/> <img src="assets/Zukunftspreis_Personen.jpg" alt="drawing" width="180"/> 
