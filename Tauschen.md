@@ -28,6 +28,7 @@ Nicht angenommen werden: CDs, DVDs, VHS-Kassetten, Audiokassetten und Bücher
 
 In allen Produkten stecken wertvolle Rohstoffe drinnen. Um möglichst viele Rohstoffe im KreisLauf zu halten, sammeln wir im KreisLa diverse Sachen. Einfach im KreisLa während der Öffnungszeiten abgeben. Relevante Links dazu: korken.at/recycling, sozialprojekt.at (Druckerpatronen), brillen-ohne-grenzen.at
 
+Wir sammeln auch in Kooperation mit dem Elternverein der Volksschule Frohnleiten Schultaschen und sonstiges Zubehör (Federpenal, Turnsackerl,...). Diese werden dann an andere Schüler:innen weitergegeben und so bleiben die Ressourcen im KreisLauf.
 
 **Wie viel kann gebracht und genommen werden?**
 
