@@ -13,7 +13,7 @@ Die Termine in der zweiten Hälfte 2026: 20.6. von 10-15 Uhr (im Rahmen des Umwe
 **Kooperationen**
 
 In Zusammenarbeit mit der Caritas Ortsgruppe werden gerettete Lebensmittel im KreisLa angeboten. Diese stammen von Supermärkten und stehen kurz vor oder knapp nach dem Mindesthaltbarkeitsdatum. Indem wir diese Lebensmittel kostenlos weitergeben, helfen wir Ressourcen im Bereich Nahrungsmittel zu schonen.
-Austausch mit Partnerorganisationen wie der Klimaregion Graz-Nord stärken die regionale Zusammenarbeit und bündeln Ressourcen für nachhaltige Projekte. So haben wir das Tauschregal im Storchennest (Eltern-Kind-Zentrum), die Schultaschenaktion mit dem Elternverein der Volksschule Frohnleiten, gemeinsame Veranstaltungen (Umweltfest), die Repair Cafès im Jufo (Jugendzentrum) und immer wieder ergeben sich neue Kooperationen.
+Austausch mit Partnerorganisationen wie der Klimaregion Graz-Nord stärken die regionale Zusammenarbeit und bündeln Ressourcen für nachhaltige Projekte. So haben wir das Tauschregal im Storchennest (Eltern-Kind-Zentrum), die Schultaschenaktion mit dem Elternverein der Volksschule Frohnleiten, Trachtenflohmarkt vom Verein Ehrenpreis, gemeinsame Veranstaltungen (wie Radfeste, Umweltfest), die Repair Cafès im Jufo (Jugendzentrum) und immer wieder ergeben sich neue Kooperationen.
 
 <img src="assets/Lebensmittelrettung.jpg" alt="drawing" width="250"/> 
 
