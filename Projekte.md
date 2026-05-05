@@ -7,7 +7,8 @@ title: "Projekte"
 Mindestens viermal im Jahr lädt der Verein "Nachhaltig in Frohnleiten" zu Repair Cafés ein, bei denen defekte Alltagsgegenstände gemeinsam repariert werden. Diese Veranstaltungen fördern nicht nur die Langlebigkeit von Produkten, sondern stärken auch das Gemeinschaftsgefühl und vermitteln wertvolles praktisches Wissen.
 Die Termine in der zweiten Hälfte 2026: 20.6. von 10-15 Uhr (im Rahmen des Umweltfestes am Hauptplatz), 19.9. und 7.11. jeweils von 10-12 im Jufo (Hauptplatz 39).
 
-<img src="assets/RC3.jpg" alt="drawing" width="250"/> <img src="assets/RC1.jpg" alt="drawing" width="250"/>
+<img src="assets/RC3.jpg" alt="drawing" width="200"/> <img src="assets/RC1.jpg" alt="drawing" width="200"/>
+<img src="assets/RC_Foto.jpg" alt="drawing" width="200"/> <img src="assets/RC_Foto_naehen.jpg" alt="drawing" width="200"/>
 
 **Lebensmittel retten**
 
