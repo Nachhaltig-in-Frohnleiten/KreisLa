@@ -21,11 +21,11 @@ Austausch mit Partnerorganisationen wie der Klimaregion Graz-Nord stärken die r
 
 Unsere Saatgut- und Jungpflanzentausch-Aktionen im Frühling bieten der Gemeinschaft die Möglichkeit Pflanzen und Samen auszutauschen und Wissen über Gartenbau und nachhaltige Landwirtschaft weiterzugeben.
 
-<img src="assets/RC2.jpg" alt="drawing" width="250"/> 
+<img src="assets/RC2.jpg" alt="drawing" width="220"/> <img src="assets/Saatguttausch_Foto4.jpg" alt="drawing" width="230"/> <img src="assets/Jungpflanzentausch.jpg" alt="drawing" width="220"/> <img src="assets/Jungpflanzentausch_Foto3.jpg" alt="drawing" width="220"/> 
 
 
 **Zukunftspreis**
 
 Wir freuen uns sehr, dass wir 2024 mit dem 2. Platz für die Zukunftsgemeinde Steiermark ausgezeichnet wurden. Die Zusammenarbeit mit der Stadtgemeinde und regionalen Akteuren schafft ein breites Netzwerk, das die Nachhaltigkeitsziele der Region unterstützt. Mit unseren Projekten wollen wir auch zur Belebung des Stadtzentrums beitragen und sind jederzeit offen für Vorschläge und Wünsche zu Workshopthemen. Auch Freiwillige sind willkommen, melde dich bei uns per Mail oder direkt im KreisLa, es gibt viele Möglichkeiten sich einzubringen.
 
-<img src="assets/Zukunftspreis.jpg" alt="drawing" width="250"/> 
+<img src="assets/Zukunftspreis.jpg" alt="drawing" width="250"/> <img src="assets/Zukunftspreis.jpg" alt="drawing" width="250"/> 
