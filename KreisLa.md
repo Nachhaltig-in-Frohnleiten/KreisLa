@@ -8,7 +8,7 @@ Im Herzen von Frohnleiten gelegen, bietet der KreisLa einen offenen Raum für di
 
 <img src="assets/1_aussen.JPG" alt="drawing" width="500"/> <img src="assets/2_Innen_ganz.JPG" alt="drawing" width="500"/>
 
-{% include my-gallery.html folder="assets/kreislafotos1" %}
+{% include my-gallery.html folder="assets/kreislafotos1"%}
 
 
 Unser KreisLa ist nur Dank unseres großartigen Teams so ein toller Ort geworden. Seit über fünf Jahren wird der KreisLa von Menschen getragen, die ihre Zeit, Ideen und Energie investieren, um Nachhaltigkeit, Gemeinschaft und Weiterverwenden in Frohnleiten zu fördern. Dafür möchten wir von Herzen Danke sagen!
