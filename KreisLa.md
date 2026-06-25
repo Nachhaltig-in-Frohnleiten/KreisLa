@@ -8,4 +8,4 @@ Im Herzen von Frohnleiten gelegen, bietet der KreisLa einen offenen Raum für di
 
 <img src="assets/1_aussen.JPG" alt="drawing" width="500"/> <img src="assets/2_Innen_ganz.JPG.jpg" alt="drawing" width="500"/>
 
-{% include my-gallery.html folder="assets/kreislafotos2" %}
+{% include my-gallery.html folder="assets/kreislafotos1" %}
