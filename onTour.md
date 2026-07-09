@@ -8,7 +8,7 @@ Mit unserem neuen Projekt „KreisLa on Tour“ ist im Juni 2026 ein mobiler Kos
 Der Anhänger wird jeweils etwa eine Woche pro Gemeinde unterwegs sein und dort die Möglichkeit zum Tauschen, Weitergeben und Wiederverwenden bieten, bevor er weiterzieht. So möchten wir noch mehr Menschen für Nachhaltigkeit und gemeinschaftliches Teilen begeistern.
 Umgesetzt wird das Projekt gemeinsam mit der "Klimaregion Gu-Nord". Die Anschaffung des Wohnwagens wurde durch eine Förderung der Steiermärkischen Sparkasse ermöglicht. Das Projekt wurde im Rahmen der Jubiläumsinitiative #weltvonmorgen ausgezeichnet.
 
-<img src="assets/OnTour1.jpg" alt="drawing" width="250"/> <img src="assets/OnTour2.jpg" alt="drawing" width="333"/> <img src="assets/OnTour3.jpg" alt="drawing" width="250"/> <img src="assets/Sparkasse.jpg" alt="drawing" width="141"/>    
+<img src="assets/OnTour1.jpg" alt="drawing" width="245"/> <img src="assets/OnTour2.jpg" alt="drawing" width="328"/> <img src="assets/OnTour3.jpg" alt="drawing" width="246"/> <img src="assets/Sparkasse.jpg" alt="drawing" width="138"/>    
 
 <img src="assets/Regeln für KreisLaOnTour.png" alt="drawing" width="400"/>
 
