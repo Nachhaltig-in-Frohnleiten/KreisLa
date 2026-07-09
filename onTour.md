@@ -10,6 +10,6 @@ Umgesetzt wird das Projekt gemeinsam mit der "Klimaregion Gu-Nord". Die Anschaff
 
 <img src="assets/OnTour1.jpg" alt="drawing" width="250"/> <img src="assets/OnTour2.jpg" alt="drawing" width="333"/> <img src="assets/OnTour3.jpg" alt="drawing" width="250"/> <img src="assets/Sparkasse.jpg" alt="drawing" width="141"/>    
 
-<img src="assets/Regeln für KreisLaOnTour.png" alt="drawing" width="350"/>
+<img src="assets/Regeln für KreisLaOnTour.png" alt="drawing" width="400"/>
 
 <img src="assets/Klimaregion_Logo.jpg" alt="drawing" width="120"/> <img src="assets/Sparkasse_Logo.png" alt="drawing" width="320"/> 
