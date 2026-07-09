@@ -2,7 +2,7 @@
 Title: Verein
 ---
 
-Wir sind der Verein **"Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten"**. Gegründet im Oktober 2020, haben wir uns zum Ziel gesetzt, das Thema Nachhaltigkeit in unserer Gemeinschaft veranzubringen.
+Wir sind der Verein **"Nachhaltig in Frohnleiten – Verein zur Förderung eines nachhaltigen Lebensstils in Frohnleiten"**. Gegründet im Oktober 2020, haben wir uns zum Ziel gesetzt, das Thema Nachhaltigkeit in unserer Gemeinschaft voranzubringen.
 
 <img src="assets/Teekanne_Gruppenbild.jpg" alt="drawing" width="600"/>
 
