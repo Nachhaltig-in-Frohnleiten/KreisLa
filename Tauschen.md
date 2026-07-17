@@ -4,7 +4,7 @@ title: "Bringen und Nehmen"
 
 **Was kann gebracht werden?**
 
-Bitte bring nur intakte und saubere Gegenstände mit – Dinge, die du auch Freunden schenken würdest. Folgende Artikel sind willkommen:
+Bitte bring nur intakte, saubere und saisonale Gegenstände mit – Dinge, die du auch Freunden schenken würdest. Folgende Artikel sind willkommen:
 - Kleidung (ohne Flecken und Löcher)
 - Kindersachen (Gewand, Spielzeug, Zubehör,...)
 - Geschirr und Küchenutensilien
