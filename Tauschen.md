@@ -19,7 +19,7 @@ Bitte bring nur intakte, saubere und saisonale Gegenstände mit – Dinge, die d
 - Dekoartikel (Bilder, saisonales Dekomaterial)
 
 Unser Platz ist sehr begrenzt und wir können nur annehmen, was in den Laden passt. Wir bitten um Verständnis!
-Nicht angenommen werden: CDs, DVDs, VHS-Kassetten, Audiokassetten und Bücher
+Nicht angenommen werden: CDs, DVDs, VHS-Kassetten, Audiokassetten, Bücher und Nicht-Saisonales
 
 
 **Wir sammeln**
